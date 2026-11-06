@@ -1,1 +1,1 @@
-See https://github.com/ThummeTo/FMI.jl for more information.
+See https://github.com/JuliaFMI/FMI.jl for more information.
